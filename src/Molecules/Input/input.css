@@ -1,0 +1,9 @@
+.icon-textfield {
+  background-color: #298dca;
+  width: 67px;
+}
+.form-control-input:focus {
+  border-color: none;
+  box-shadow: 0 0 0 0.08rem rgb(0 123 255 / 16%);
+  border-radius: 0px;
+}

@@ -1,0 +1,33 @@
+.dropdwn-select {
+  width: 500px;
+  height: 36px;
+}
+select {
+  outline: none;
+  outline-offset: none;
+}
+select:focus {
+  outline: none;
+  outline-offset: none;
+}
+
+.dropdown-wrapper {
+  height: 300px;
+  position: relative;
+}
+
+.logout-btn {
+  display: block;
+  height: 3rem;
+  float: right;
+  padding: 0.375rem 0.75rem;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 500;
+  opacity: 0.8;
+  color: #ffffff;
+  background-color: #298dca;
+  background-clip: padding-box;
+  border: 1px solid #298dca;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
